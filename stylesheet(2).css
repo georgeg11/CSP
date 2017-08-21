@@ -1,0 +1,27 @@
+h1{
+font-size:2.3em;
+text-align:center;
+color: #FF0000;
+}
+div.scrollmenu{
+  background-color: #A9A9A9;
+overflow:auto;
+white-space:nowrap;}
+
+div.scrollmenu a {
+  display:inline-block;
+  color:black;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover{
+  background-color: #777;
+}
+ body {
+    background-color: #D3D3D3;
+}
+p {
+    background-color: rgb(255,0,255);
+}
